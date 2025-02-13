@@ -61,12 +61,14 @@ A curated list of codes and resources by **Mind Network** for developers.
 - 🤯 **Swarm Framework x Mind Network FHE Plugin**: [Swarm Rust](https://github.com/georgesheth/swarms-rust), [Swarm Shield](https://github.com/georgesheth/swarm-shield)
 - 🎮 **Virtuals Protocol (GAME) Framework x Mind Network FHE Plugin**: [Repo](https://github.com/mind-network/mind-game-node-integration)
 - 🧠 **AI16Z (ElizaOS) Framework x Mind Network FHE Plugin**: [Repo](https://github.com/elizaOS/eliza/tree/main/packages/plugin-mind-network), [Eliza with FHE Tutorial](https://github.com/mind-network/mind-eliza-integration/blob/develop/docs/docs/advanced/eliza-with-fhe.md)
+- 🏛️ **Spore.Fun x Mind Network FHE Plugin**: coming soon
 - ✋ **OpenHands x Mind Network**: [Repo](https://github.com/georgesheth/OpenHands)
 
 ### ⛓️ Blockchain Partners
 - 🔗 **ChainLink CCIP x Mind Network**: [FHE Plugin](https://github.com/mind-network/mind-sap-contracts)
 - ⛓️ **Ethereum Foundation**: [Consensus Spec](https://github.com/georgesheth/consensus-specs), [EIPs](https://github.com/georgesheth/EIPs)
 - 🏛️ [Mind Hubs Partners](https://dapp.mindnetwork.xyz/votetoearn/voteonhubs)
+- 🧠 **TEE+FHE By Phala x Mind**: coming soon
 - 📂 **Decentralized Storage Integrations**:
   - 🏛️ [Arweave](https://github.com/mind-network/mind-datapack-typescript/blob/main/src/connector/arweaveConnector.ts)
   - 🏗️ [BnB Greenfield](https://github.com/mind-network/mind-datapack-typescript/blob/main/src/connector/greenfieldConnector.ts)
