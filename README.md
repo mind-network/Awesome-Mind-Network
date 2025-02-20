@@ -11,7 +11,7 @@ A curated list of codes and resources by **Mind Network** for developers.
 - 📚 [Research Guide](https://docs.mindnetwork.xyz/minddocs/research-guide)
 - 🌱 [Advocate Program](https://docs.mindnetwork.xyz/minddocs/others/advocate-program)
 - ❓ [FAQ](https://docs.mindnetwork.xyz/minddocs/others/faq)
-- 🛡️ [Bug Bounty](https://bugrap.io/bounties/Mind%20Network) – Help improve security
+- 🛡️ [Bug Bounty](https://bugrap.io/bounties/Mind%20Network)
 
 ---
 
@@ -24,12 +24,13 @@ A curated list of codes and resources by **Mind Network** for developers.
 
 ### 🖥️ Mind Nodes
 - 🐍 [Python SDK](https://github.com/mind-network/mind-sdk-randgen-py)
-- 🦀 [Rust SDK (Coming Soon)]
+- 🦀 [Rust SDK](https://github.com/mind-network/mind-sdk-randgen-rust)
 - 🚀 [TypeScript SDK](https://github.com/mind-network/mind-sdk-randgen-ts)
 
 ### 🏢 Mind Hubs
 - 🌐 [DApp](https://dapp.mindnetwork.xyz/)
 - 📦 [TypeScript SDK](https://github.com/mind-network/mind-sdk-hubs-ts)
+- 🏦 [Rust SDK](https://github.com/mind-network/mind-sdk-chain-rust)
 
 ### 🛠️ Mind Contracts
 - 💰 [TGV Staking Contracts](https://github.com/mind-network/mind-restaking-contracts/tree/main/contracts)
@@ -47,6 +48,8 @@ A curated list of codes and resources by **Mind Network** for developers.
   - 📦 [TypeScript](https://github.com/mind-network/mind-datapack-typescript)
   - 🐍 [Python](https://github.com/mind-network/mind-datapack-python)
 
+### 🛠️ Mind FHE
+- 🔐 [Rust SDK](https://github.com/mind-network/mind-sdk-fhe-rust)
 ---
 
 ## 🔎 Auditing
