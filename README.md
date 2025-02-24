@@ -66,6 +66,7 @@ A curated list of codes and resources by **Mind Network** for developers.
 - 🧠 **AI16Z (ElizaOS) Framework x Mind Network FHE Plugin**: [Repo](https://github.com/elizaOS/eliza/tree/main/packages/plugin-mind-network), [Eliza with FHE Tutorial](https://github.com/mind-network/mind-eliza-integration/blob/develop/docs/docs/advanced/eliza-with-fhe.md)
 - 🏛️ **Spore.Fun x Mind Network FHE Plugin**: coming soon
 - ✋ **OpenHands x Mind Network**: [Repo](https://github.com/georgesheth/OpenHands)
+- 🐍 **DeepSeek x Mind Network**:[Repo](https://github.com/mind-network/mind-sdk-deepseek-rust), [DeepSeek Official Link](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
 ### ⛓️ Blockchain Partners
 - 🔗 **ChainLink CCIP x Mind Network**: [FHE Plugin](https://github.com/mind-network/mind-sap-contracts)
@@ -81,7 +82,8 @@ A curated list of codes and resources by **Mind Network** for developers.
 ---
 
 ## 📖 Knowledge Sharing
-- 🧠 [LLM-based AI Agents Tutorials](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge)
+- 🧠 [LLM-based AI Agents Learning Hub](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge)
+- ⛓️ [FHE Learning Hub](https://github.com/mind-network/Awesome-FHE)
 - 🔒 [Stealth Address Tutorials](https://github.com/mind-network/mind-sap-sdk-demo)
 - 📚 **DataLake Tutorials**:
   - 🐍 [Python](https://github.com/mind-network/mind-lake-sdk-python/tree/main/tutorial)
