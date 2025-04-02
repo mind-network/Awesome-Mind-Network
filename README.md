@@ -17,6 +17,9 @@ A curated list of codes and resources by **Mind Network** for developers.
 
 ## 🏗️ Mind Core Components & Products
 
+### 🌍 AgenticWorld
+- 🌍 [Build AgenticWorld with Mind](https://github.com/mind-network/build-agentic-world-with-mind)
+
 ### 🔗 Mind Chain
 - 🌍 [ChainList](https://github.com/mind-network/ethereum-lists-chains)
 - 🔎 [Mainnet Explorer](https://explorer.mindnetwork.xyz/)
@@ -38,7 +41,7 @@ A curated list of codes and resources by **Mind Network** for developers.
 - 🏦 Mind Token Solidity Contracts (Coming Soon)
 - 🔏 [Contract Multi-Sig](https://docs.mindnetwork.xyz/minddocs/security-and-privacy/multi-sig-and-timelock)
 
-### 🌉 Mind Bridge
+### 🌉 FHE Bridge
 - 🔄 [FHE SAP](https://github.com/mind-network/mind-sap-contracts)
 
 ### 📊 Mind DataLake
@@ -82,6 +85,7 @@ A curated list of codes and resources by **Mind Network** for developers.
 ---
 
 ## 📖 Knowledge Sharing
+- 🌍 [Build AgenticWorld with Mind](https://github.com/mind-network/build-agentic-world-with-mind)
 - 🧠 [LLM-based AI Agents Learning Hub](https://github.com/mind-network/Awesome-LLM-based-AI-Agents-Knowledge)
 - ⛓️ [FHE Learning Hub](https://github.com/mind-network/Awesome-FHE)
 - 🔒 [Stealth Address Tutorials](https://github.com/mind-network/mind-sap-sdk-demo)
