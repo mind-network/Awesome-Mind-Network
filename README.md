@@ -75,7 +75,7 @@ Welcome to **Awesome Mind Network** — a curated collection of open-source reso
 
 ### 🔐 FHE Core Libraries (Open Source)
 - Rust Crates:
-  - [`mind_sdk_fhe`](https://crates.io/crates/mind_sdk_fhe), [`mind_sdk_deepseek`](https://crates.io/crates/mind_sdk_deepseek), [`mind_sdk_chain`](https://crates.io/crates/mind_sdk_chain), [`mind_sdk_util`](https://crates.io/crates/mind_sdk_util), [`mind_sdk_config`](https://crates.io/crates/mind_sdk_config), [`mind_sdk_io`](https://crates.io/crates/mind_sdk_io), [`mind_sdk_lb`](https://crates.io/crates/mind_sdk_lb), [`mind_sdk_cli`](https://crates.io/crates/mind_sdk_cli), [`mind_sdk_randgen`](https://crates.io/crates/mind_sdk_randgen), [`mind_sdk_fcn`](https://crates.io/crates/mind_sdk_fcn)
+  - [mind_sdk_fhe](https://crates.io/crates/mind_sdk_fhe), [mind_sdk_deepseek](https://crates.io/crates/mind_sdk_deepseek), [mind_sdk_chain](https://crates.io/crates/mind_sdk_chain), [mind_sdk_util](https://crates.io/crates/mind_sdk_util), [mind_sdk_config](https://crates.io/crates/mind_sdk_config), [mind_sdk_io](https://crates.io/crates/mind_sdk_io), [mind_sdk_lb](https://crates.io/crates/mind_sdk_lb), [mind_sdk_cli](https://crates.io/crates/mind_sdk_cli), [mind_sdk_randgen](https://crates.io/crates/mind_sdk_randgen), [mind_sdk_fcn](https://crates.io/crates/mind_sdk_fcn)
 - TypeScript SDKs:
   - [mind-fhe-zk-voting-paillier-ts](https://github.com/mind-network/mind-fhe-zk-voting-paillier-ts), [mind-sdk-randgen-ts](https://github.com/mind-network/mind-sdk-randgen-ts), [mind-sdk-hubs-ts](https://github.com/mind-network/mind-sdk-hubs-ts), [mind-lake-sdk-typescript](https://github.com/mind-network/mind-lake-sdk-typescript), [mind-datapack-typescript](https://github.com/mind-network/mind-datapack-typescript)
 - Python SDKs:
