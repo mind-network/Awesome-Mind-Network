@@ -19,10 +19,10 @@ Welcome to **Awesome Mind Network** — a curated collection of open-source reso
 
 ### 🪙 Mind Token
 - 🔐 [Multi-Sig Contracts](https://docs.mindnetwork.xyz/minddocs/security-and-privacy/multi-sig-and-timelock)
-- 🏦 Mind Token Contracts: _coming soon_
+- 🏦 [Mind Token Contracts](https://github.com/mind-network/mind-token-contracts)
+- 🧾 [Technical Audits](https://github.com/mind-network/mind-token-contracts)
 - 🔄 Token Bridge: _coming soon_
 - 🚰 Testnet Faucet: _coming soon_
-- 🧾 Technical Audits: _coming soon_
 
 ### 🔗 Mind Chain
 - 🌐 [Mainnet Explorer](https://explorer.mindnetwork.xyz/)
