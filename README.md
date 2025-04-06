@@ -19,8 +19,8 @@ Welcome to **Awesome Mind Network** — a curated collection of open-source reso
 
 ### 🪙 Mind Token
 - 🔐 [Multi-Sig Contracts](https://docs.mindnetwork.xyz/minddocs/security-and-privacy/multi-sig-and-timelock)
-- 🏦 [Mind Token Contracts](https://github.com/mind-network/mind-token-contracts)
-- 🧾 [Technical Audits](https://github.com/mind-network/mind-token-contracts)
+- 🏦 [Mind Network FHE Token Contracts](https://github.com/mind-network/mind-token-contracts)
+- 🧾 [Mind Network FHE Token Technical Audits](https://github.com/mind-network/mind-token-contracts)
 - 🔄 Token Bridge: _coming soon_
 - 🚰 Testnet Faucet: _coming soon_
 
