@@ -37,6 +37,7 @@ Welcome to **Awesome Mind Network** — a curated collection of open-source reso
 - 🧩 Hub Contract Template: _coming soon_
 - 🌉 Cross-Chain Bridge: _coming soon_
 - 🖥️ [AgenticWorld Platform](https://agent.mindnetwork.xyz/agenticworld)
+- 📋 [Audit Reports](https://github.com/mind-network/mind-agentic-world-contracts-audit)
 
 ### 🧠 FHE Bridge
 - 📜 [Stealth Address Protocol Contracts](https://github.com/mind-network/mind-sap-contracts)
