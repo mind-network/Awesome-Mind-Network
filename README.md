@@ -21,7 +21,7 @@ Welcome to **Awesome Mind Network** — a curated collection of open-source reso
 - 🔐 [Multi-Sig Contracts](https://docs.mindnetwork.xyz/minddocs/security-and-privacy/multi-sig-and-timelock)
 - 🏦 [Mind Network FHE Token Contracts](https://github.com/mind-network/mind-token-contracts)
 - 🧾 [Mind Network FHE Token Technical Audits](https://github.com/mind-network/mind-token-contracts)
-- 🔄 Token Bridge: [ChinLink CCIP](https://agent.mindnetwork.xyz/bridge)
+- 🔄 Token Bridge: [Chainlink CCIP](https://agent.mindnetwork.xyz/bridge)
 - 🚰 Testnet Faucet: _coming soon_
 
 ### 🔗 Mind Chain
