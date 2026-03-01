@@ -7,7 +7,7 @@ Welcome to **Awesome Mind Network** — a curated collection of open-source reso
 ## 🌐 Developer & Community Hub
 
 - 💬 [Join our Discord](https://discord.com/invite/UYj94MJdGJ) — Connect with the community
-- 📖 [Developer Guide](https://docs.mindnetwork.xyz/minddocs/developer-guide)
+- 📖 [Developer Guide](https://docs.mindnetwork.xyz/minddocs/product/mindchain/mindchain-developer-guide)
 - 🔬 [Research Guide](https://docs.mindnetwork.xyz/minddocs/research-guide)
 - 🌱 [Advocate Program](https://docs.mindnetwork.xyz/minddocs/others/advocate-program)
 - ❓ [FAQ](https://docs.mindnetwork.xyz/minddocs/others/faq)
